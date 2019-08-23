@@ -1,4 +1,6 @@
-f = open('과제연구 계획서 방지연', encoding = 'utf8')
+123456789
+
+= open('과제연구 계획서 방지연', encoding = 'utf8')
 for row in f :
     print(row.strip())
 f.close()
